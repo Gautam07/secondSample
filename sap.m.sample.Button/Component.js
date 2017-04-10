@@ -4,6 +4,7 @@ sap.ui.define(['sap/ui/core/UIComponent'],
 //new comment added by Shyam
 	//Check backward Pull request functionality
 	//Replicate a conflict sceanrio
+	// gauthams code 
 	
 	var Component = UIComponent.extend("sap.m.sample.Button.Component", {
 
