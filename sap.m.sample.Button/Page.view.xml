@@ -80,7 +80,7 @@
 			<Toolbar>
 				<ToolbarSpacer/>
 				<Button type="Emphasized" text="Emphasized" press="onPress" />
-				<Button text="Default" press="onPress" />
+				<Button text="Default" press="onPress" enabled="false" />
 				<Button icon="sap-icon://action" press="onPress" />
 			</Toolbar>
 		</footer>
